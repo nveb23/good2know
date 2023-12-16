@@ -7,3 +7,18 @@
         * `sudo systemctl disable <service-name-from-blame>`
         * Plymouth - boot splash screen
         * Network manager - internet connection
+    * Detailed [analysis](https://opensource.com/article/20/9/systemd-startup-configuration)
+
+* system setup
+    ```bash
+    sudo snap install code --classic
+    sudo snap install flutter --classic
+
+
+    enabled ufw firewall
+
+    root has an explicit password now
+    sudo -i 
+    passwd
+    ```
+
